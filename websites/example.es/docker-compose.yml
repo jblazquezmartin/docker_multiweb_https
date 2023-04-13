@@ -12,7 +12,7 @@ services:
       WORDPRESS_DB_USER: root #same pwd as database user
       # This section is needed to setup nginx and issue your Let's Encrypt cert
       VIRTUAL_HOST: example.es # the incomming domain name
-      VIRTUAL_PORT: 80 # this is the port exposed below
+      VIRTUAL_PORT: 81 # this is the port exposed below
       LETSENCRYPT_HOST: example.es # the domain name to issue cert to
       LETSENCRYPT_EMAIL: name@example.es # this email can be any of your emails
     expose:
