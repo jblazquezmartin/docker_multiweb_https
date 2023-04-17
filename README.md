@@ -157,5 +157,9 @@ discussion platform there is not a good other option. I don't see why people get
 when people do this. It is the only way to ask questions on github currently and everyone
  can search the issues to see them.# docker_multiweb_https
  
+<<<<<<< HEAD
  end
 
+=======
+ prueba edicion
+>>>>>>> 286228ac449ce5a0185e16a77a73086e58a89a75
