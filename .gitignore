@@ -1,5 +1,5 @@
 .idea
-/websites/*/html
+/websites/*
 !/websites/example.es
 /nginx-proxy/*
 !/nginx-proxy/docker-compose.yml
